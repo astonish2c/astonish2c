@@ -20,21 +20,8 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
   <img align="left" alt="Asghar's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/facebook/facebook-original.svg" />
 </a>
 
-<br/>
+![](https://visitor-badge.glitch.me/badge?page_id=astonish2c.astonish2c)
 
-&nbsp;
-
-   <p align="left">
-      <a href="https://github.com/astonish2c?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/astonish2c?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/astonish2c?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/astonish2c?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   <a href="https://stackoverflow.com/users/15493690/asghar-ali-hazara" target="_blank">
-<img alt="StackOverflow" 
-src="https://stackoverflow-badge.vercel.app/?userID=15493690" />
-</a>
-   </p>
-   
 ---
 
 ### 🧰 Languages and Tools
