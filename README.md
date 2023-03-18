@@ -1,7 +1,6 @@
-# Hi there! :wave:
-**`Full Stack Developer`**
+# Hey there :wave:
 
-I'm a full-stack developer from Quetta,Pakistan and building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I do freelancing on different platforms and also love building unique softwares that help people with their work. 
+Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack Developer`** from **`Quetta,Pakistan`** and building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I do freelancing on different platforms and also love building unique softwares that help people with their work. 
 
    <p align="left">
       <a href="https://github.com/astonish2c?tab=followers">
@@ -46,10 +45,14 @@ src="https://stackoverflow-badge.vercel.app/?userID=15493690" />
 
 #
 
-### 📊 Stats
+### 📊 Github Stats
 
 ![Asghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=astonish2c&show_icons=true&theme=gruvbox)
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astonish2c&theme=gruvbox">
 
 #
+
+### 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/astonish2c?theme=dark&font=Mako)
+
