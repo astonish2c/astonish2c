@@ -14,8 +14,10 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 🧰 Languages and Tools
 
-#### Mobile
 <div class="row">
+  <div class="column">
+    <h4>Mobile</h4>
+  </div>
   <div class="column">
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" />
   </div>
