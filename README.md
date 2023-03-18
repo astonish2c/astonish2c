@@ -1,7 +1,7 @@
-# Hey there :wave:, I am Asghar Ali Hazara
+# Hi there! :wave:
 **`Full Stack Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm a full-stack developer from Quetta,Pakistan and building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I do freelancing on different platforms and also love building unique softwares that help people with their work. 
 
    <p align="left">
       <a href="https://github.com/astonish2c?tab=followers">
@@ -32,7 +32,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" /> &nbsp;
 
-#### Languages 
+#### General Purpose Languages 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -45,5 +45,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📊 Stats
 
 ![Asghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=astonish2c&show_icons=true&theme=gruvbox)
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astonish2c&theme=gruvbox">
 
 #
