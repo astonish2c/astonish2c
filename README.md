@@ -13,6 +13,22 @@ src="https://stackoverflow-badge.vercel.app/?userID=15493690" />
 </a>
    </p>
 
+###  Feel free to connect :wink:
+
+<a href="https://www.linkedin.com/in/astonish2c/">
+  <img align="left" alt="Asghar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/astonish2c">
+  <img align="left" alt="Asghar's LinkedIN" width="22px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/facebook/facebook-original.svg" />
+</a>
+<a href="https://stackoverflow.com/users/15493690/asghar-ali-hazara">
+  <img align="left" alt="Asghar's LinkedIN"  width="22px" src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01d52ee2528c960792">
+  <img align="left" alt="Asghar's LinkedIN"  width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/upwork.svg" />
+</a>
+<br/>
+
 ---
 
 ### 🧰 Languages and Tools
