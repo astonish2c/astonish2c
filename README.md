@@ -8,6 +8,10 @@ I'm a full-stack developer from Quetta,Pakistan and building my version of the d
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/astonish2c?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/astonish2c?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/astonish2c?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://stackoverflow.com/users/15493690/asghar-ali-hazara" target="_blank">
+<img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=15493690" />
+</a>
    </p>
 
 ---
