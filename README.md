@@ -7,19 +7,19 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 ###  Feel free to connect :wink:
 
 <a href="https://www.linkedin.com/in/astonish2c/">
-  <img align="left" alt="Asghar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Asghar's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.upwork.com/freelancers/~01d52ee2528c960792">
-  <img align="left" alt="Asghar's LinkedIN"  width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/upwork.svg" />
+  <img align="left" alt="Asghar's LinkedIN" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </a>
-<a href="https://leetcode.com/astonish2c/">
-  <img align="left" alt="Asghar's LeetCode"  width="22px" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" />
+<a href="https://www.hackerrank.com/astonish2c">
+  <img align="left" alt="Asghar's LeetCode"   src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 <a href="https://stackoverflow.com/users/15493690/asghar-ali-hazara">
-  <img align="left" alt="Asghar's StackOverflow"  width="22px" src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667" />
+  <img align="left" alt="Asghar's StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/astonish2c">
-  <img align="left" alt="Asghar's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/facebook/facebook-original.svg" />
+  <img align="left" alt="Asghar's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 </br>
 
