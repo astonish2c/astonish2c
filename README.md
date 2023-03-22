@@ -62,7 +62,4 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 
 #
 
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
