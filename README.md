@@ -1,5 +1,7 @@
-# Hey there :wave:
+<h3> Hey There <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif "height="45" width="45" /> </h3> 
 
+![](https://visitor-badge.glitch.me/badge?page_id=astonish2c.astonish2c)
+#
 Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack Developer`** from **`Quetta,Pakistan`** and building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I do freelancing on different platforms and also love building unique softwares that help people with their work. 
 
 ###  Feel free to connect :wink:
@@ -19,8 +21,7 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 <a href="https://www.facebook.com/astonish2c">
   <img align="left" alt="Asghar's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/facebook/facebook-original.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=astonish2c.astonish2c)
+</br>
 
 ---
 
@@ -48,7 +49,6 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-&nbsp; 
 
 <br />
 
@@ -62,6 +62,5 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 
 #
 
-### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/astonish2c?theme=dark&font=Mako)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
