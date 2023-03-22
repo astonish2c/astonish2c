@@ -1,7 +1,7 @@
 <h3> Hey There <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif "height="45" width="45" /> </h3> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=astonish2c.astonish2c)
-#
+
 Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack Developer`** from **`Quetta,Pakistan`** and building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I do freelancing on different platforms and also love building unique softwares that help people with their work. 
 
 ###  Feel free to connect :wink:
