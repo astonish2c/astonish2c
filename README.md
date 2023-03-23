@@ -21,12 +21,11 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 <a href="https://www.facebook.com/astonish2c">
   <img align="left" alt="Asghar's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<br />
+<br/>
 
 #
-&nbsp;
 
-### 🧰 Languages and Tools
+### &nbsp; 🧰 Languages and Tools
 
 #### Mobile 
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" />
