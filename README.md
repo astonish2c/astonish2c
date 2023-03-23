@@ -21,9 +21,9 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 <a href="https://www.facebook.com/astonish2c">
   <img align="left" alt="Asghar's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-&nbsp;
+<br />
 
----
+#
 &nbsp;
 
 ### 🧰 Languages and Tools
