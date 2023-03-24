@@ -25,7 +25,8 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 
 #
 
-### &nbsp; 🧰 Languages and Tools
+<br/>
+###  🧰 Languages and Tools
 
 #### Mobile 
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" />
