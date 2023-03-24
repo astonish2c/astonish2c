@@ -8,7 +8,7 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 <p align="bottom">
     <a href="https://linkedin.com/in/astonish2c"><img  src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
     &nbsp;
-    <a href="https://medium.com/@astonish2c"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white"></a>
+    <a href="https://medium.com/@astonish2c"><img src="https://img.shields.io/badge/-Medium-black?style=plastic&logo=medium&logoColor=black"></a>
     &nbsp;
     <a href="https://www.upwork.com/freelancers/~01d52ee2528c960792"><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white"></a>
     &nbsp;
