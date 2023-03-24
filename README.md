@@ -14,6 +14,8 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
     &nbsp;
   <a href="https://www.hackerrank.com/astonish2c"><img  src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"></a>
     &nbsp;
+    <a href="https://stackoverflow.com/users/15493690/asghar-ali-hazara"><img  src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
+    &nbsp;
 </p>
 
 #
