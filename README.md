@@ -5,23 +5,16 @@
 Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack Developer`** from **`Quetta,Pakistan`** and building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I do freelancing on different platforms and also love building unique softwares that help people with their work. 
 
 ###  Feel free to connect :wink:
-
-<a href="https://www.linkedin.com/in/astonish2c/">
-  <img align="left" alt="Asghar's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.upwork.com/freelancers/~01d52ee2528c960792">
-  <img align="left" alt="Asghar's LinkedIN" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/astonish2c">
-  <img align="left" alt="Asghar's LeetCode"   src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/15493690/asghar-ali-hazara">
-  <img align="left" alt="Asghar's StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/astonish2c">
-  <img align="left" alt="Asghar's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<br/>
+<p align="bottom">
+    <a href="https://linkedin.com/in/astonish2c"><img  src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    &nbsp;
+    <a href="https://medium.com/@astonish2c"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white"></a>
+    &nbsp;
+    <a href="https://www.upwork.com/freelancers/~01d52ee2528c960792"><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white"></a>
+    &nbsp;
+  <a href="https://www.hackerrank.com/astonish2c"><img  src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"></a>
+    &nbsp;
+</p>
 
 #
 
@@ -63,5 +56,6 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astonish2c&theme=gruvbox">
 
 #
+
 
 
