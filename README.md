@@ -51,9 +51,9 @@ Hi i'm [Asghar Ali Hazara](https://www.facebook.com/astonish2c), a **`Full Stack
 
 ### 📊 Github Stats
 
-![Asghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=astonish2c&show_icons=true&theme=gruvbox)
+![Asghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=astonish2c&show_icons=true&theme=dark)
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astonish2c&theme=gruvbox">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astonish2c&theme=dark">
 
 #
 
